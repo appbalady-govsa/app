@@ -1,0 +1,2171 @@
+<!DOCTYPE HTML>
+<html class="p_AFMaximized" dir="rtl" lang="ar">
+    <head>
+        <title>&#1578;&#1601;&#1575;&#1589;&#1610;&#1604;&#1585;&#1582;&#1589;&#1577;&#1578;&#1580;&#1575;&#1585;&#1610;&#1577;</title>
+        <link data-afr-stylesheet="true" rel="stylesheet" charset="UTF-8" type="text/css" href="https://appbalady-govsa.github.io/app/commercial/adf/styles/cache/commercial.css">
+       
+        <script type="text/javascript" src="/commercial/adf/jsLibs/Localepwuhh9.js"></script>
+        <script type="text/javascript" src="/commercial/afr/partition/webkit/n/default/opt/d/boot-90btl4.js"></script>
+        <script type="text/javascript"></script>
+        <script type="text/javascript">
+            AdfLogger.DEFAULT_LEVEL = AdfLogger.OFF;
+            var checkAgentSupport = false;
+            AdfAgent.setInstance(AdfAgent.getAgent(window));
+            var lookAndFeel = new AdfDhtmlLookAndFeel(window);
+            AdfAgent._LOG_WRITERS = "NativeLogWriter";
+            AdfPage.setInstance(lookAndFeel.createPage());
+            var page = AdfPage.PAGE;
+            page.setBaseResourceUrl("/commercial");
+            page.__setAutomationEnabled(false);
+            page.__setCssSelectorsUncompressed(false);
+            page.setAnimationEnabled(true);
+            
+            page.__setOutputMode('default');
+            page.__disableDirtyDataRetainPPR()
+        </script>
+        <script type="text/javascript" src="/commercial/afr/partition/webkit/n/default/opt/d/core-xty4fu.js"></script>
+        <script type="text/javascript" src="/commercial/afr/AdfTranslations-faz1oq_ar.js?loc=ar&amp;skinId=commercial.desktop"></script>
+        <link data-afr-stylesheet="true" rel="stylesheet" type="text/css" afrres="true" href="https://fonts.googleapis.com/css?family=Nunito%3A300%2C400%2C400i%2C600%2C700%2C800%2C900">
+        <link data-afr-stylesheet="true" rel="stylesheet" type="text/css" afrres="true" href="https://fonts.googleapis.com/css?family=Cairo%3A400%2C700">
+        <link data-afr-stylesheet="true" rel="stylesheet" type="text/css" afrres="true" href="https://apps.balady.gov.sa/baladycdn/backend/v1/assets/styles/css/bootstrap.min.css">
+        <link data-afr-stylesheet="true" rel="stylesheet" type="text/css" afrres="true" href="https://apps.balady.gov.sa/baladycdn/backend/v1/assets/styles/css/lite-blue.css">
+        <link data-afr-stylesheet="true" rel="stylesheet" type="text/css" afrres="true" href="https://apps.balady.gov.sa/baladycdn/backend/v1/assets/styles/vendor/datatables.min.css">
+        <link data-afr-stylesheet="true" rel="stylesheet" type="text/css" afrres="true" href="https://apps.balady.gov.sa/baladycdn/backend/v1/assets/styles/css/custom2.css">
+        <link data-afr-stylesheet="true" rel="stylesheet" type="text/css" afrres="true" href="https://apps.balady.gov.sa/baladycdn/backend/v1/assets/styles/css/responsive.css">
+        <script type="text/javascript" language="javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+        <script type="text/javascript" language="javascript" src="https://apps.balady.gov.sa/baladycdn/backend/v1/assets/js/vendor/jquery-3.3.1.min.js"></script>
+        <script type="text/javascript" language="javascript" src="https://apps.balady.gov.sa/baladycdn/backend/v1/assets/js/init.js"></script>
+    </head>
+    <body class="x13d p_AFMaximized">
+        <noscript>&#1578;&#1587;&#1578;&#1582;&#1583;&#1605;&#1607;&#1584;&#1607;&#1575;&#1604;&#1589;&#1601;&#1581;&#1577;&#1580;&#1575;&#1601;&#1575;&#1575;&#1587;&#1603;&#1585;&#1576;&#1578;&#1548;&#1608;&#1605;&#1606;&#1579;&#1605;&#1601;&#1607;&#1610;&#1578;&#1578;&#1591;&#1604;&#1576;&#1605;&#1578;&#1589;&#1601;&#1581;&#1611;&#1575;&#1605;&#1583;&#1593;&#1608;&#1605;&#1611;&#1575;&#1576;&#1580;&#1575;&#1601;&#1575;&#1575;&#1587;&#1603;&#1585;&#1576;&#1578;. &#1575;&#1604;&#1605;&#1578;&#1589;&#1601;&#1581;&#1604;&#1583;&#1610;&#1603;&#1594;&#1610;&#1585;&#1605;&#1583;&#1593;&#1608;&#1605;&#1576;&#1580;&#1575;&#1601;&#1575;&#1575;&#1587;&#1603;&#1585;&#1576;&#1578;.</noscript>
+        <iframe name="afr::PushIframe" id="afr::PushIframe" style="display:none" src="/commercial/afr/blank.html"></iframe>
+        <input type="hidden" id="oracle.adf.view.faces.RICH_UPDATE">
+        <div id="d1">
+            <a id="d1::skip" href="#" class="x19i">&#1575;&#1604;&#1578;&#1582;&#1591;&#1610;&#1573;&#1604;&#1609;&#1575;&#1604;&#1605;&#1581;&#1578;&#1608;&#1609;&#1575;&#1604;&#1585;&#1574;&#1610;&#1587;&#1610;.</a>
+            <span id="afr::ATStatus" class="p_OraHiddenLabel" role="status" aria-live="polite" aria-atomic="true"></span>
+            <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, viewport-fit=cover">
+            <meta name="apple-mobile-web-app-capable" content="yes">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="robots" content="noindex">
+            <link rel="shortcut icon" type="image/x-icon" href="https://apps.balady.gov.sa/baladycdn/backend/v1/assets/images/fav.ico">
+            <div class="">
+                <span id="dc_pgl5" class="main-header x1a">
+                    <span id="pt_pgl3" class="logo x1a">
+                        <img id="pt_i1" class="xl0" src="https://apps.balady.gov.sa/baladycdn/backend/v1/assets/images/logo.png">
+                    </span>
+                    <span id="dc_pgl4" class="d-flex x1a">
+                        <h4 class="m-0">
+                            <span class="mr-2">&#1606;&#1592;&#1575;&#1605;&#1576;&#1604;&#1583;&#1610;&#1575;&#1604;&#1605;&#1608;&#1581;&#1583;</span>
+                        </h4>
+                    </span>
+                    <div style="margin: auto">&nbsp;</div>
+                </span>
+            </div>
+            <form id="f1" name="f1" class="x137" method="POST" action="/commercial/faces/LicencesDetail.jsf">
+                <div id="r1" class="xui">
+                    <span id="r1:0:pgl001" class="row x1a" style="justify-content: center; margin: 10px auto ;">
+                        <span id="r1:0:pgl02" class="col-md-12 x1a">
+                            <h3 style="color: #85bc47;text-align: center;">
+                                
+                                
+                                
+                                
+                                <span class="mr-2"
+                                
+                                
+                                id="r1:0:ot1">حلاقمريمزيدعبداللهالمسعودللحلاقة</span>
+                                
+                                
+                                
+                            </h3>
+                        </span>
+                        <h4>(معلوماتتفصيليه)</h4>
+                    </span>
+                    <span id="r1:0:j_id747957323_7415e55f" class="alert alert-warning x1a" style="text-align: justify;">
+                        
+                        
+                        
+                        
+                        <h4>تنبيه</h4>
+                      يجبتجديدالرخصةقبلتاريخانتهاءفترةالسدادحتىلاتتعرضللغرامة. كمالايمكنالغاءالرخصةوهيمنتهيةممايترتبعليهتجديدالرخصةوسدادالرسومودفعالغراماتقبلالإلغاء.
+    
+                    </span>
+                    
+                    
+                    
+                    
+                    
+                    
+<div id="r1:0:pb01" class="xt7" style="max-height:100% !important;">
+<table class="xuk p_AFCore p_AFDefault p_AFNotDisclosed" cellpadding="0" cellspacing="0" border="0" width="0" summary="" role="presentation">
+                            <tbody>
+                                <tr>
+<td style="white-space:nowrap" class="xv0">
+<h1 class="xv2">&#1576;&#1610;&#1575;&#1606;&#1575;&#1578;&#1575;&#1604;&#1585;&#1582;&#1589;&#1577;</h1>
+</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <div class="xvl p_AFCore p_AFDefault">
+                            <div class="x5s p_AFCore p_AFDefault" id="r1:0:pb01::content">
+                                <div id="r1:0:pfl001" class="x19">
+                                    <table cellpadding="0" cellspacing="0" border="0" summary="" role="presentation" style="width: auto">
+                                        <tbody>
+                                            <tr>
+                                                <td class="x4w" colspan="1" width="50%">
+                                                    <table cellpadding="0" cellspacing="0" border="0" width="100%" summary="" role="presentation">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>
+                                                                    <table class="x1u p_AFReadOnly" id="r1:0:it26" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+                                                                        <tbody>
+                                                                            <tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">&#1585;&#1602;&#1605;&#1575;&#1604;&#1585;&#1582;&#1589;&#1577;&#1575;&#1604;&#1605;&#1608;&#1581;&#1583;</label>
+</td>
+</tr>
+<tr>
+                                                                                	
+                                                                                    
+                                                                                    <!-- EDIT DATA -->
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    <td valign="top" class="xvo">
+                                                                                    <span id="r1:0:it26::content" style="width:9em;" 
+                                                                                    
+                                                                                    class="x25">460517724518</span>
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    <!-- EDIT DATA -->
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>
+                                                                    <table class="x1u p_AFReadOnly" id="r1:0:it27" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td class="xu x50" valign="top">
+                                                                                    <label class="af_inputText_label-text">&#1585;&#1602;&#1605;&#1575;&#1604;&#1585;&#1582;&#1589;&#1577;&#1575;&#1604;&#1602;&#1583;&#1610;&#1605;</label>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td valign="top" class="xvo">
+                                                                                    <span id="r1:0:it27::content" style="width:15em;" class="x25"></span>
+                                                                                    <script type="text/javascript">
+                                                                                        var _locale = 'ar';
+                                                                                        var _tLocale = 'ar';
+                                                                                    </script>
+<script type="text/javascript" src="/commercial/adf/jsLibs/resources/LocaleElements_arpwuhh9.js?loc=ar"></script>
+<script type="text/javascript" src="/commercial/adf/jsLibs/CoreFmtpwuhh9.js"></script>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="x1u p_AFReadOnly" id="r1:0:it29" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+<tbody>
+<tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">&#1578;&#1575;&#1585;&#1610;&#1582;&#1575;&#1589;&#1583;&#1575;&#1585;&#1575;&#1604;&#1585;&#1582;&#1589;&#1577;</label>
+</td>
+</tr>
+<tr>
+                                                                            
+                                                                            
+                                                                            		<!-- EDIT DATA -->
+                                                                                    
+                                                                                    
+                                                                            
+                                                                                	<td valign="top" class="xvo">
+                                                                                    <span id="r1:0:it29::content" style="width:2000em;" 
+                                                                                    
+                                                                                    
+                                                                                    class="x25">1446/05/24</span>
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    <!-- EDIT DATA -->
+                                                                                    
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="x1u p_AFReadOnly" id="r1:0:it28" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+<tbody>
+<tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">&#1585;&#1602;&#1605;&#1575;&#1604;&#1591;&#1604;&#1576;</label>
+</td>
+</tr>
+<tr>
+                                                                            
+                                                                            
+                                                                            		<!-- EDIT DATA -->
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                            
+                                                                                	<td valign="top" class="xvo">
+                                                                                    <span id="r1:0:it28::content" style="width:9em;" 
+                                                                                    
+                                                                                    
+                                                                                    class="x25">4641919753</span>
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    <!-- EDIT DATA -->
+                                                                                    
+                                                                                    
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="x4w" colspan="1">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" summary="" role="presentation">
+<tbody>
+<tr>
+<td>
+<table class="x1u p_AFReadOnly" id="r1:0:it2" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+<tbody>
+<tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">&#1578;&#1575;&#1585;&#1610;&#1582;&#1606;&#1607;&#1575;&#1610;&#1577;&#1575;&#1604;&#1578;&#1585;&#1582;&#1610;&#1589;</label>
+</td>
+</tr>
+<tr>
+                                                                            
+                                                                            
+                                                                            		<!-- EDIT DATA -->
+                                                                                    
+                                                                                    
+                                                                            
+                                                                            
+                                                                                	<td valign="top" class="xvo">
+                                                                                    <span id="r1:0:it2::content" style="width:2000em;" 
+                                                                                    
+                                                                                    
+                                                                                    class="x25">1447/05/24</span>
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    <!-- EDIT DATA -->
+                                                                                    
+                                                                                    
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="x1u p_AFReadOnly" id="r1:0:it88" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+<tbody>
+<tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">&#1581;&#1575;&#1604;&#1577;&#1575;&#1604;&#1585;&#1582;&#1589;&#1577;</label>
+</td>
+</tr>
+<tr>
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            		<!-- EDIT DATA -->
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                	<td valign="top" class="xvo">
+                                                                                    <span id="r1:0:it88::content" style="width:2000em;" 
+                                                                                    
+                                                                                    
+                                                                                    class="x25">سارية</span>
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    <!-- EDIT DATA -->
+                                                                                    
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="x1u p_AFReadOnly" id="r1:0:it98" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+<tbody>
+<tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">&#1605;&#1585;&#1581;&#1604;&#1577;&#1575;&#1604;&#1585;&#1602;&#1575;&#1576;&#1577;</label>
+</td>
+</tr>
+<tr>
+                                                                                	
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    <!-- EDIT DATA -->
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    <td valign="top" class="xvo">
+                                                                                    <span id="r1:0:it98::content" style="width:2000em;" 
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    class="x25">تمتالرقابةواعتمادالرخصةالاصلية</span>
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    <!-- EDIT DATA -->
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+<div id="r1:0:pb02" class="xt7" style="max-height:100% !important;">
+<table class="xuk p_AFCore p_AFDefault p_AFNotDisclosed" cellpadding="0" cellspacing="0" border="0" width="0" summary="" role="presentation">
+ <tbody>
+<tr>
+<td style="white-space:nowrap" class="xv0">
+<h1 class="xv2">&#1576;&#1610;&#1575;&#1606;&#1575;&#1578;&#1575;&#1604;&#1605;&#1581;&#1604;</h1>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="xvl p_AFCore p_AFDefault">
+<div class="x5s p_AFCore p_AFDefault" id="r1:0:pb02::content">
+<div id="r1:0:pfl002" class="x19">
+<table cellpadding="0" cellspacing="0" border="0" summary="" role="presentation" style="width: auto">
+<tbody>
+<tr>
+<td class="x4w" colspan="1" width="50%">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" summary="" role="presentation">
+<tbody>
+<tr>
+<td>
+<table class="x1u p_AFReadOnly" id="r1:0:it31" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+ <tbody>
+<tr>
+ <td class="xu x50" valign="top">
+<label class="af_inputText_label-text">&#1575;&#1587;&#1605;&#1575;&#1604;&#1605;&#1575;&#1604;&#1603;</label>
+</td>
+</tr>
+ <tr>
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            		<!-- EDIT DATA -->
+                                                                                    
+                                                                                    
+                                                                            
+                                                                            
+                                                                                	<td valign="top" class="xvo">
+                                                                                    <span id="r1:0:it31::content" style="width:2000em;" 
+                                                                                    
+                                                                                    
+                                                                                    class="x25">حلاقمريمزيدعبداللهالمسعودللحلاقة</span>
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    <!-- EDIT DATA -->
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>
+<table class="x1u p_AFReadOnly" id="r1:0:it55" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+<tbody>
+<tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">&#1575;&#1587;&#1605;&#1575;&#1604;&#1605;&#1581;&#1604;</label>
+</td>
+</tr>
+<tr>
+                                                                                	
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                 	<!-- EDIT DATA -->
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    <td valign="top" class="xvo">
+                                                                                    <span id="r1:0:it55::content" style="width:250em;" 
+                                                                                    
+                                                                                    class="x25">حلاقمريمزيدعبداللهالمسعودللحلاقة</span>
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                 	<!-- EDIT DATA -->
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="x1u p_AFReadOnly" id="r1:0:it32" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+                                                                        <tbody>
+                                                                            <tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">&#1585;&#1602;&#1605;&#1607;&#1608;&#1610;&#1577;&#1575;&#1604;&#1605;&#1575;&#1604;&#1603;</label>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                
+                                                                                
+                                                                                 <!-- EDIT DATA -->
+                                                                                
+                                                                                
+                                                                                <td valign="top" class="xvo">
+                                                                                    <span id="r1:0:it32::content" style="width:127em;" 
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    class="x25">7042017710</span>
+                                                                                    
+                                                                                   <!-- EDIT DATA -->
+                                                                                   
+                                                                                   
+                                                                                   
+                                                                                   
+                                                                                   
+                                                                                   
+                                                                                   
+                                                                                   
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+<td class="x4w" colspan="1">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" summary="" role="presentation">
+<tbody>
+<tr>
+<td>
+<table class="x1u p_AFReadOnly" id="r1:0:it34" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+<tbody>
+<tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">&#1605;&#1604;&#1575;&#1603;&#1575;&#1582;&#1585;&#1610;&#1606;</label>
+</td>
+</tr>
+<tr>
+                                                                            
+                                                                            
+                                                                            
+                                                                                	
+                                                                                    <!-- EDIT DATA -->
+                                                                                    
+                                                                                    <td valign="top" class="xvo">
+                                                                                    <span id="r1:0:it34::content" style="width:127em;" 
+                                                                                    
+                                                                                    class="x25"></span>
+                                                                                    
+                                                                                    
+                                                                                    <!-- EDIT DATA -->
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="x1u p_AFReadOnly" id="r1:0:it36" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+                                                                        <tbody>
+                                                                            <tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">&#1606;&#1608;&#1593;&#1607;&#1608;&#1610;&#1577;&#1575;&#1604;&#1605;&#1575;&#1604;&#1603;</label>
+ </td>
+</tr>
+<tr>
+<td valign="top" class="xvo">
+<span id="r1:0:it36::content" style="width:2000em;" class="x25">سجلتجاري</span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="x1u p_AFReadOnly" id="r1:0:it9" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+<tbody>
+<tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">&#1585;&#1602;&#1605;&#1575;&#1604;&#1593;&#1602;&#1575;&#1585;</label>
+</td>
+</tr>
+<tr>
+                                                                            
+                                                                            
+                                                                            
+                                                                             <!-- EDIT DATA -->
+                                                                             
+                                                                            
+                                                                                <td valign="top" class="xvo">
+                                                                                <span id="r1:0:it9::content" style="width:50em;" 
+                                                                                    
+                                                                                    
+                                                                                class="x25"></span>
+                                                                                
+                                                                                   
+                                                                              <!-- EDIT DATA -->
+                                                                              
+                                                                              
+                                                                              
+                                                                                   
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+<div id="r1:0:pb03" class="xt7" style="max-height:100% !important;">
+<table class="xuk p_AFCore p_AFDefault p_AFNotDisclosed" cellpadding="0" cellspacing="0" border="0" width="0" summary="" role="presentation">
+<tbody>
+<tr>
+<td style="white-space:nowrap" class="xv0">
+<h1 class="xv2">&#1576;&#1610;&#1575;&#1606;&#1575;&#1578;&#1575;&#1604;&#1606;&#1588;&#1575;&#1591;</h1>
+</td>
+</tr>
+</tbody>
+                        </table>
+                        <div class="xvl p_AFCore p_AFDefault">
+                            <div class="x5s p_AFCore p_AFDefault" id="r1:0:pb03::content">
+                                <div id="r1:0:pfl003" class="x19">
+                                    <table cellpadding="0" cellspacing="0" border="0" summary="" role="presentation" style="width: auto">
+                                        <tbody>
+                                            <tr>
+                                                <td class="x4w" colspan="1" width="50%">
+                                                    <table cellpadding="0" cellspacing="0" border="0" width="100%" summary="" role="presentation">
+                                                        <tbody>
+<tr>
+<td>
+<table class="x1u p_AFReadOnly" id="r1:0:it54" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+                                                                        <tbody>
+                                                                            <tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">&#1606;&#1588;&#1575;&#1591;&#1575;&#1604;&#1575;&#1610;&#1586;&#1603;</label>
+</td>
+</tr>
+<tr>
+
+
+
+
+                                                                            
+                                                                             <!-- EDIT DATA -->
+                                                                             
+                                                                             
+                                                                                <td valign="top" class="xvo">
+                                                                                    <span id="r1:0:it54::content" style="width:500em;"
+                                                                                    
+                                                                                    
+                                                                                    class="x25">الصالوناتالرجالية</span>
+                                                                                    
+                                                                                    
+                                                                                     <!-- EDIT DATA -->
+                                                                                     
+                                                                                   
+                                                                                   
+                                                                                   
+                                                                                   
+                                                                                   
+                                                                                     
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>
+<table class="x1u p_AFReadOnly" id="r1:0:it53" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+                                                                        <tbody>
+                                                                            <tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">&#1575;&#1604;&#1606;&#1588;&#1575;&#1591;&#1575;&#1604;&#1578;&#1601;&#1589;&#1610;&#1604;&#1609;</label>
+</td>
+</tr>
+<tr>
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                             <!-- EDIT DATA -->
+                                                                            
+                                                                                <td valign="top" class="xvo">
+                                                                                    <span id="r1:0:it53::content" style="width:2000em;" 
+                                                                                    
+                                                                                    
+                                                                                    class="x25">الصالوناتالرجالية</span>
+                                                                                    
+                                                                                    <!-- EDIT DATA --> 
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>
+<table class="x1u p_AFReadOnly" id="r1:0:it7" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+                                                                        <tbody>
+<tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">&#1608;&#1589;&#1601;&#1575;&#1604;&#1606;&#1588;&#1575;&#1591;&#1575;&#1604;&#1578;&#1601;&#1589;&#1610;&#1604;&#1609;</label>
+</td>
+</tr>
+<tr>
+                                                                                
+                                                                                <!-- EDIT DATA -->
+                                                                                
+                                                                                <td valign="top" class="xvo">
+                                                                                    <span id="r1:0:it7::content" style="width:2000em;" 
+                                                                                    
+                                                                                    class="x25">هيمحلاتالحلاقةالرجاليةالمجهزةلحلقأوقصأوتهذيبأوصبغالشعرويشملالحلاقةللاطفالبتوفيركرسيخاصبالاطفال</span>
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    <!-- EDIT DATA -->
+                                                                                    
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="x1u p_AFReadOnly" id="r1:0:it60" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+<tbody>
+<tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">&#1575;&#1604;&#1605;&#1587;&#1572;&#1608;&#1604;&#1593;&#1606;&#1575;&#1604;&#1606;&#1592;&#1575;&#1601;&#1577;</label>
+</td>
+</tr>
+<tr>
+
+
+
+																	      <!-- EDIT DATA -->
+                                                                            
+                                                                            
+                                                                            
+                                                                          <td valign="top" class="xvo">
+                                                                          <span id="r1:0:it60::content" style="width:33em;"
+                                                                          
+                                                                          
+                                                                          class="x25">البلديةالمسؤولةعنجمعالنفايات</span>
+                                                                          
+                                                                          
+                                                                          
+                                                                          <!-- EDIT DATA -->
+                                                                          
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="x4w" colspan="1">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" summary="" role="presentation">
+<tbody>
+<tr>
+<td>
+<table class="x1u p_AFReadOnly" id="r1:0:it58" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+<tbody>
+<tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">&#1605;&#1587;&#1575;&#1581;&#1577;&#1575;&#1604;&#1605;&#1581;&#1604;</label>
+</td>
+</tr>
+<tr>
+                                                                            
+                                                                            
+                                                                             		<!-- EDIT DATA -->
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                	<td valign="top" class="xvo">
+                                                                                    <span id="r1:0:it58::content" style="width:63em;" 
+                                                                                    
+                                                                                    
+                                                                                    class="x25">40</span>
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                     <!-- EDIT DATA -->
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="x1u p_AFReadOnly" id="r1:0:it8" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+<tbody>
+<tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">&#1605;&#1587;&#1575;&#1581;&#1577;&#1575;&#1604;&#1606;&#1588;&#1575;&#1591;&#1575;&#1604;&#1575;&#1587;&#1575;&#1587;&#1610;&#1577;</label>
+</td>
+</tr>
+<tr>
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                     <!-- EDIT DATA -->
+                                                                                     
+                                                                                      
+                                                                                	<td valign="top" class="xvo">
+                                                                                    <span id="r1:0:it8::content" 
+                                                                                    
+                                                                                    
+                                                                                    class="x25">40</span>
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                     <!-- EDIT DATA -->
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="x1u p_AFReadOnly" id="r1:0:it5" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+<tbody>
+<tr>
+<td class="xu x50" valign="top">
+
+<label class="af_inputText_label-text">&#1575;&#1604;&#1575;&#1606;&#1588;&#1591;&#1577;&#1575;&#1604;&#1605;&#1578;&#1593;&#1583;&#1583;&#1577;</label>
+</td>
+</tr>
+<tr>
+<td valign="top" class="xvo">
+<span id="r1:0:it5::content" style="width:2000em;" class="x25"></span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<div id="r1:0:pb1" class="xt7">
+<table class="xuk p_AFCore p_AFDefault" cellpadding="0" cellspacing="0" border="0" width="0" summary="" role="presentation">
+<tbody>
+<tr>
+<td class="xuy">
+<a role="button" aria-expanded="true" aria-controls="r1:0:pb1::content" aria-label="&#1591;&#1610; &#1581;&#1575;&#1604;&#1577; &#1585;&#1587;&#1608;&#1605; &#1580;&#1605;&#1593; &#1575;&#1604;&#1606;&#1601;&#1575;&#1610;&#1575;&#1578;" href="#" onclick="this.focus();return false" class="xxp x214" id="r1:0:pb1::_afrDscl" title="&#1591;&#1610; &#1581;&#1575;&#1604;&#1577; &#1585;&#1587;&#1608;&#1605; &#1580;&#1605;&#1593; &#1575;&#1604;&#1606;&#1601;&#1575;&#1610;&#1575;&#1578;"></a>
+</td>
+<td style="white-space:nowrap" class="xv0">
+<h1 class="xv2">&#1581;&#1575;&#1604;&#1577;&#1585;&#1587;&#1608;&#1605;&#1580;&#1605;&#1593;&#1575;&#1604;&#1606;&#1601;&#1575;&#1610;&#1575;&#1578;</h1>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="xvl p_AFCore p_AFDefault">
+<div class="x5s p_AFCore p_AFDefault" id="r1:0:pb1::content">
+<div id="r1:0:pfl1" class="x19">
+<table cellpadding="0" cellspacing="0" border="0" summary="" role="presentation" style="width: auto">
+<tbody>
+<tr>
+<td class="x4w" colspan="1">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" summary="" role="presentation">
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr class="x1u p_AFReadOnly" id="r1:0:it1850">
+<td class="xu x4z" valign="top">
+<label class="af_inputText_label-text">&#1585;&#1587;&#1608;&#1605;&#1580;&#1605;&#1593;&#1575;&#1604;&#1606;&#1601;&#1575;&#1610;&#1575;&#1578;</label>
+                                                                </td>
+                                                                <td valign="top" class="xvo">
+                                                                
+                                                                
+                                                                 
+                                                                 <!-- EDIT DATA -->
+                                                                 
+                                                                 
+                                                                 
+                                                                 <span id="r1:0:it1850::content" 
+                                                                 
+                                                                 
+                                                                 class="x25">تمدفعرسومجمعالنفايات</span>
+                                                                 
+                                                                 
+                                                                 <!-- EDIT DATA -->
+                                                                 
+                                                                 
+                                                                </td>
+                                                            </tr>
+                                                            <tr class="x1u p_AFReadOnly" style="display:none" id="r1:0:it10">
+                                                                <td class="xu x4z" valign="top">
+                                                                    <label class="af_inputText_label-text">CleanContractNumber</label>
+                                                                </td>
+                                                                <td valign="top" class="xvo">
+                                                                    <span id="r1:0:it10::content" class="x25"></span>
+                                                                </td>
+                                                            </tr>
+                                                            <tr class="x1u p_AFReadOnly" style="display:none" id="r1:0:it12">
+                                                                <td class="xu x4z" valign="top">
+                                                                    <label class="af_inputText_label-text">CleanContractEndDate</label>
+                                                                </td>
+                                                                <td valign="top" class="xvo">
+                                                                    <span id="r1:0:it12::content" style="width:9em;" class="x25"></span>
+</td>
+</tr>
+</tbody>
+</table>
+ </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+                    
+</div>
+<div id="r1:0:pb04" class="xt7" style="max-height:100% !important;">
+<table class="xuk p_AFCore p_AFDefault p_AFNotDisclosed" cellpadding="0" cellspacing="0" border="0" width="0" summary="" role="presentation">
+<tbody>
+<tr>
+<td style="white-space:nowrap" class="xv0">
+<h1 class="xv2">&#1576;&#1610;&#1575;&#1606;&#1575;&#1578;&#1575;&#1604;&#1593;&#1606;&#1608;&#1575;&#1606;</h1>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="xvl p_AFCore p_AFDefault">
+<div class="x5s p_AFCore p_AFDefault" id="r1:0:pb04::content">
+<div id="r1:0:pfl004" class="x19">
+<table cellpadding="0" cellspacing="0" border="0" summary="" role="presentation" style="width: auto">
+<tbody>
+<tr>
+<td class="x4w" colspan="1" width="50%">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" summary="" role="presentation">
+<tbody>
+<tr>
+<td>
+<table class="x1u p_AFReadOnly" id="r1:0:it16" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+<tbody>
+<tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">&#1575;&#1587;&#1605;&#1575;&#1604;&#1581;&#1610;</label>
+</td>
+</tr>
+<tr>
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            		<!-- EDIT DATA -->
+                                                                                
+                                                                                
+                                                                                	<td valign="top" class="xvo">
+                                                                                    <span id="r1:0:it16::content" style="width:2000em;" 
+                                                                                    
+                                                                                    
+                                                                                    class="x25">بدر</span>
+                                                                                    
+                                                                                    <!-- EDIT DATA -->
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="x1u p_AFReadOnly" id="r1:0:it49" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+<tbody>
+<tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">رقمالمخطط</label>
+</td>
+</tr>
+<tr>
+                                                                            
+                                                                            
+                                                                            		<!-- رقمالمخطط -->
+                                                                                    
+                                                                                	<td valign="top" class="xvo">
+                                                                                    <span id="r1:0:it49::content" style="width:25em;" 
+                                                                                    class="x25">2003/د</span>
+                                                                                    
+                                                                                    
+                                                                                    <!-- رقمالمخطط -->
+                                                                                    
+                                                                                    
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="x1u p_AFReadOnly" id="r1:0:it50" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+<tbody>
+<tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">رقمالقطعة</label>
+</td>
+</tr>
+<tr>
+                                                                            
+                                                                            
+                                                                            
+                                                                            		<!-- رقمالقطعة -->
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                	<td valign="top" class="xvo">
+                                                                                    <span id="r1:0:it50::content" style="width:10em;" 
+                                                                                    
+                                                                                    
+                                                                                    class="x25">763</span>
+                                                                                    
+                                                                                    
+                                                                                    <!-- رقمالقطعة -->
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="x1u p_AFReadOnly" id="r1:0:it42" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+                                                                        <tbody>
+                                                                            <tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">اسمالشارع</label>
+</td>
+</tr>
+<tr>
+                                                                            
+                                                                            
+                                                                            
+                                                                            		<!-- اسمالشارع -->
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                	<td valign="top" class="xvo">
+                                                                                    <span id="r1:0:it42::content" style="width:2000em;" 			
+                                                                                    
+                                                                                    
+                                                                                    class="x25">أحمدحسنالزيات</span>
+                                                                                    
+                                                                                     <!-- اسمالشارع -->
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                    
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="x1u p_AFReadOnly" id="r1:0:it46" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+                                                                        <tbody>
+                                                                            <tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">مالكالعقار</label>
+</td>
+</tr>
+<tr>
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                          
+                                                                            
+                                                                             <!-- مالكالعقار -->
+                                                                                <td valign="top" class="xvo">
+                                                                                <span id="r1:0:it46::content" style="width:127em;" 
+                                                                                
+                                                                                
+                                                                                
+                                                                                class="x25"></span>
+                                                                                
+                                                                              <!-- مالكالعقار -->
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="x1u p_AFReadOnly" id="r1:0:it43" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+<tbody>
+<tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">الدور</label>
+</td>
+</tr>
+<tr>
+                                                                                	
+                                                                                     <!-- الدور -->
+                                                                                    
+                                                                                    <td valign="top" class="xvo">
+                                                                                    <span id="r1:0:it43::content" style="width:9em;" 
+                                                                                    class="x25"></span>
+                                                                                    
+                                                                                    
+                                                                                    <!-- الدور --> 
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="x4w" colspan="1">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" summary="" role="presentation">
+<tbody>
+<tr>
+<td>
+<table class="x1u p_AFReadOnly" id="r1:0:it48" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+<tbody>
+<tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">تاريخنهايةالايجار</label>
+</td>
+</tr>
+<tr>
+                                                                            
+                                                                            	<!-- تاريخنهايةالايجار -->
+                                                                                    
+                                                                                <td valign="top" class="xvo">
+                                                                                <span id="r1:0:it48::content" style="width:2000em;" 
+                                                                                
+                                                                                
+                                                                                class="x25"></span>
+                                                                                
+                                                                                
+                                                                                 <!-- تاريخنهايةالايجار -->
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+                                                                    
+<table class="x1u p_AFReadOnly" id="r1:0:it4" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+<tbody>
+<tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">رقمالمحل</label>
+</td>
+</tr>
+<tr>
+
+
+
+
+
+																				<!-- رقمالمحل -->
+                                                                                    
+																				<td valign="top" class="xvo">
+																				<span id="r1:0:it4::content" style="width:9em;" 
+																				
+                                                                                class="x25">4</span>
+                                                                                
+                                                                                
+                                                                                <!-- رقمالمحل -->
+                                                                                    
+                                                                                
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="x1u p_AFReadOnly" id="r1:0:it45" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+<tbody>
+<tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">رقمرخصةالبناء</label>
+</td>
+</tr>
+<tr>
+                                                                            
+                                                                            
+                                                                            		<!-- رقمرخصةالبناء -->
+                                                                                    
+                                                                            		
+                                                                                	<td valign="top" class="xvo">
+                                                                                    <span id="r1:0:it45::content" style="width:127em;" 
+                                                                                    class="x25">  </span>
+                                                                                    
+                                                                                    
+                                                                                    <!-- رقمرخصةالبناء -->
+                                                                                    
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="x1u p_AFReadOnly" id="r1:0:it22" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+<tbody>
+<tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">عددالفتحات</label>
+</td>
+</tr>
+<tr>
+                                                                            
+                                                                            
+                                                                             		<!-- عددالفتحات -->
+                                                                                    
+                                                                                    
+                                                                                	<td valign="top" class="xvo">
+                                                                                    <span id="r1:0:it22::content" style="width:9em;" 																								
+                                                                                    
+                                                                                    class="x25">1</span>
+                                                                                    
+                                                                                    
+                                                                                     <!--map Area -->
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+ </tr>
+<tr>
+<td class="x51">
+<span id="r1:0:pglkroky" class="x1a">
+<span class="krokylbl">رسمتوضيحيللموقع</span>
+                                        
+<span id="r1:0:pglkimg" class="kroky-img x1a">
+				
+                				
+                                
+                                <!--map Area -->
+                                
+<img id="r1:0:if1" class="xl0" 
+					src="https://ebalady.momra.gov.sa/commercialLicence/request/4641919753/attachments/view/1">
+                    
+                    
+                     			<!--map Area -->
+</span>
+</span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<div id="r1:0:pb05" class="xt7" style="max-height:100% !important;">
+<table class="xuk p_AFCore p_AFDefault p_AFNotDisclosed" cellpadding="0" cellspacing="0" border="0" width="0" summary="" role="presentation">
+<tbody>
+<tr>
+<td style="white-space:nowrap" class="xv0">
+<h1 class="xv2">اللوحاتوالرسوم</h1>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="xvl p_AFCore p_AFDefault">
+<div class="x5s p_AFCore p_AFDefault" id="r1:0:pb05::content">
+<div id="r1:0:pfl005" class="x19">
+ <table cellpadding="0" cellspacing="0" border="0" summary="" role="presentation" style="width: auto">
+<tbody>
+<tr>
+<td class="x4w" colspan="1" width="50%">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" summary="" role="presentation">
+<tbody>
+<tr>
+<td>
+<table class="x1u p_AFReadOnly" id="r1:0:it18" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+<tbody>
+<tr>
+<td class="xu x50" valign="top">
+
+<label class="af_inputText_label-text">عدداللوحاتالاعلانية</label>
+
+</td>
+</tr>
+<tr>
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                                 	<!--Area -->
+                                                                                     
+                                                                                	<td valign="top" class="xvo">
+                                                                                    <span id="r1:0:it18::content" 
+                                                                                    class="x25">0</span>
+                                                                                    
+                                                                                    
+                                                                                     <!--Area -->
+                                                                                     
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="x1u p_AFReadOnly" id="r1:0:it20" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+<tbody>
+<tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">&#1593;&#1583;&#1583;&#1575;&#1604;&#1604;&#1608;&#1581;&#1575;&#1578;&#1575;&#1604;&#1575;&#1585;&#1588;&#1575;&#1583;&#1610;&#1577;</label>
+</td>
+</tr>
+<tr>
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            		 <!--Area -->
+                                                                                     
+                                                                                     
+                                                                                 	<td valign="top" class="xvo">
+                                                                                    <span id="r1:0:it20::content" 
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    class="x25">1</span>
+                                                                                    
+                                                                                    
+                                                                                     <!--Area -->
+                                                                                    
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="x1u p_AFReadOnly" id="r1:0:it63" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+<tbody>
+<tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">&#1605;&#1587;&#1575;&#1581;&#1577;&#1575;&#1604;&#1604;&#1608;&#1581;&#1575;&#1578;&#1575;&#1604;&#1575;&#1593;&#1604;&#1575;&#1606;&#1610;&#1577;</label>
+</td> </tr><tr>
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            		 <!--Area -->
+                                                                                     
+                                                                            
+                                                                                	<td valign="top" class="xvo">
+                                                                                    <span id="r1:0:it63::content" 
+                                                                                    
+                                                                                    
+                                                                                    class="x25">   </span>
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                     <!--Area -->
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+</td> </tr> </tbody> </table> </td> </tr> 
+</tbody> 
+</table>
+</td>
+<td class="x4w" colspan="1">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" summary="" role="presentation">
+<tbody>
+<tr>
+<td>
+<table class="x1u p_AFReadOnly" id="r1:0:it62" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+<tbody><tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">&#1605;&#1587;&#1575;&#1581;&#1577;&#1575;&#1604;&#1604;&#1608;&#1581;&#1575;&#1578;&#1575;&#1604;&#1575;&#1585;&#1588;&#1575;&#1583;&#1610;&#1577;</label>
+</td>
+</tr>
+<tr>
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            		 <!--Area -->
+                                                                            
+                                                                                	<td valign="top" class="xvo">
+                                                                                    <span id="r1:0:it62::content" 
+                                                                                    
+                                                                           
+                                                                                    
+                                                                                    class="x25">2</span>
+                                                                                    
+                                                                                     <!--Area -->
+                                                                                     
+
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="x1u p_AFReadOnly" id="r1:0:it64" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+<tbody>
+<tr> 
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">&#1601;&#1575;&#1578;&#1608;&#1585;&#1577;&#1575;&#1604;&#1576;&#1604;&#1583;&#1610;&#1577;</label>
+</td>
+</tr>
+<tr>
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            		 <!--muncipility bill no-->
+                                                                                     
+                                                                                     
+                                                                                	<td valign="top" class="xvo">
+                                                                                    <span id="r1:0:it64::content" style="width:127em;" 
+                                                                                    
+                                                                              
+                                                                                    class="x25">241114165869</span>
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                     <!--muncipility bill no-->
+                                                                                    
+                                                                                
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="x1u p_AFReadOnly" id="r1:0:it65" cellpadding="0" cellspacing="0" border="0" summary="" role="presentation">
+<tbody>
+<tr>
+<td class="xu x50" valign="top">
+<label class="af_inputText_label-text">&#1605;&#1576;&#1604;&#1594;&#1575;&#1604;&#1601;&#1575;&#1578;&#1608;&#1585;&#1577;</label>
+</td>
+</tr>
+<tr>
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                             	<!--bill amount-->
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+                                                                                <td valign="top" class="xvo">
+                                                                                <span id="r1:0:it65::content" style="width:63em;" 
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                class="x25">886.25</span>
+                                                                                    
+                                                                                    
+                                                                                   
+                                                                               	<!--bill amount-->
+                                                                                   
+                                                                                   
+                                                                                   
+                                                                                   
+                                                                                   
+                                                                                   
+                                                                                   
+                                                                                   
+
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<div id="r1:0:pb06" class="lic-attach-pbox xt7" style="max-height:100% !important;">
+<table class="xuk p_AFCore p_AFDefault" cellpadding="0" cellspacing="0" border="0" width="0" summary="" role="presentation">
+<tbody>
+<tr>
+<td style="white-space:nowrap" class="xv0">
+<h1 class="xv2">التصاريح</h1>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="xvl p_AFCore p_AFDefault">
+<div class="x5s p_AFCore p_AFDefault" id="r1:0:pb06::content"></div>
+</div>
+</div>
+<div id="r1:0:pb2" class="xt7">
+<table class="xuk p_AFCore p_AFDefault" cellpadding="0" cellspacing="0" border="0" width="0" summary="" role="presentation">
+<tbody>
+<tr>
+<td class="xuy">
+<a role="button" aria-expanded="true" aria-controls="r1:0:pb2::content" aria-label="&#1591;&#1610; &#1575;&#1604;&#1578;&#1602;&#1610;&#1610;&#1605; &#1575;&#1604;&#1584;&#1575;&#1578;&#1610; &#1604;&#1604;&#1605;&#1606;&#1588;&#1571;&#1577;" href="#" onclick="this.focus();return false" class="xxp x214" id="r1:0:pb2::_afrDscl" title="&#1591;&#1610; &#1575;&#1604;&#1578;&#1602;&#1610;&#1610;&#1605; &#1575;&#1604;&#1584;&#1575;&#1578;&#1610; &#1604;&#1604;&#1605;&#1606;&#1588;&#1571;&#1577;"></a>
+</td>
+<td style="white-space:nowrap" class="xv0">
+<h1 class="xv2">التقييمالذاتيللمنشأة</h1>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="xvl p_AFCore p_AFDefault">
+<div class="x5s p_AFCore p_AFDefault" id="r1:0:pb2::content">
+<span id="r1:0:pgl2" class="d-flex flex-column align-items-center m-auto x1a" style="max-width:250px;">
+<span class="mt-3 mb-3 font-weight-700">التقييمالذاتيللمنشأة</span>
+
+
+</span>
+</div>
+</div>
+</div>
+<div style="display:none">
+<a dir="rtl" id="r1:0:_afrCommandDelegate" class="xgl" onclick="return false;" data-afr-fcs="true" href="#"></a>
+</div>
+</div>
+<span id="dc_pgl3" class="app-footer x1a">
+<span id="dc_pgl04" class="footer-bottom border-top d-flex flex-column flex-sm-row align-items-center x1a">
+<img id="dc_i1" class="logo xl0" src="https://apps.balady.gov.sa/baladycdn/backend/v1/assets/images/logo.svg">
+<span id="dc_s2" class="flex-grow-1"></span>
+<span id="dc_pgl05" class="test-left x1a">
+<span class="m-0">&#1580;&#1605;&#1610;&#1593;&#1575;&#1604;&#1581;&#1602;&#1608;&#1602;&#1605;&#1581;&#1601;&#1608;&#1592;&#1577;| &#1576;&#1604;&#1583;&#1610;&#1575;&#1604;&#1576;&#1608;&#1575;&#1576;&#1577;&#1575;&#1604;&#1573;&#1604;&#1603;&#1578;&#1585;&#1608;&#1606;&#1610;&#1577;&copy;</span>
+                            
+                            
+                            
+                            
+                            
+                        </span>
+                    </span>
+                </span>
+                <input type="hidden" name="org.apache.myfaces.trinidad.faces.FORM" value="f1">
+                <input name="Adf-Window-Id" type="hidden" value="w15nvqkljfv">
+                <span id="f1::postscript">
+                    <span id="f1::postscript:st">
+                        <input type="hidden" name="javax.faces.ViewState" value="!xpoejhq89">
+                    </span>
+                </span>
+            </form>
+            <div id="d1::msgCtr" style="display:none">
+                <div id="d1_msgDlg" class="x1d4">
+                    <div class="x1ef" data-afr-panelwindowbackground="1"></div>
+                    <div class="x1ef" data-afr-panelwindowbackground="1"></div>
+                    <div class="x1ef" data-afr-panelwindowbackground="1"></div>
+                    <div class="x1ef" data-afr-panelwindowbackground="1"></div>
+                    <table cellpadding="0" cellspacing="0" border="0" summary="" role="presentation" class="x1dk">
+                        <tr>
+                            <td class="p_AFResizable x1d9" id="d1_msgDlg::_hee">&nbsp;</td>
+                            <td class="p_AFResizable x1db" id="d1_msgDlg::_hce">
+                                <table style="cursor:default" cellpadding="0" cellspacing="0" border="0" width="100%" summary="" role="presentation">
+                                    <tr>
+                                        <td>
+                                            <div id="d1_msgDlg::_ticn" class="x1e7" style="display:none"></div>
+                                        </td>
+                                        <td class="x1dm" id="d1_msgDlg::tb">
+                                            <div id="d1_msgDlg::_ttxt" class="x1e5"></div>
+                                        </td>
+                                        <td>
+                                            <div class="x1e9">
+                                                <a aria-label="&#1573;&#1594;&#1604;&#1575;&#1602;" href="#" onclick="this.focus();return false" class="x1dz" id="d1_msgDlg::close" title="&#1573;&#1594;&#1604;&#1575;&#1602;"></a>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                            <td class="p_AFResizable x1dd" id="d1_msgDlg::_hse">&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td class="p_AFResizable x1dr" id="d1_msgDlg::_cee">&nbsp;</td>
+                            <td class="p_AFResizable x1o" id="d1_msgDlg::contentContainer">
+                                <div id="d1_msgDlg::_ccntr" class="x1dp" style="width:auto;height:auto;position:relative;overflow:auto;">
+                                    <div id="d1_msgDlg::_cnt" class="x19h"></div>
+                                </div>
+                            </td>
+                            <td class="p_AFResizable x1dt" id="d1_msgDlg::_cse">&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td class="p_AFResizable x1de" id="d1_msgDlg::_fee">
+                                <div></div>
+                            </td>
+                            <td class="p_AFResizable x1df" id="d1_msgDlg::_fce">
+                                <table cellpadding="0" cellspacing="0" border="0" width="100%" summary="" role="presentation">
+                                    <tr>
+                                        <td class="p_AFResizable x1dx" id="d1_msgDlg::_fcc">
+                                            <div id="d1_msgDlg_cancel" class="xfl p_AFTextOnly p_AFActionDisabled" _afrGrp="0" role="presentation">
+                                                <a href="#" onclick="this.focus();return false" data-afr-fcs="true" class="xfn" role="button">
+                                                    <span class="xfv">&#1605;&#1608;&#1575;&#1601;&#1602;</span>
+                                                </a>
+                                            </div>
+                                        </td>
+                                        <td align="right" valign="bottom">
+                                            <div class="p_AFResizable x1e4">
+                                                <a tabIndex="-1" class="x1e2" id="d1_msgDlg::_rse" title="&#1573;&#1593;&#1575;&#1583;&#1577; &#1578;&#1581;&#1580;&#1610;&#1605;"></a>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                            <td class="p_AFResizable x1dg" id="d1_msgDlg::_fse">
+                                <div></div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+            <div id="d1::liveCtr" role="alert" aria-live="assertive" aria-atomic="true" class="p_OraHiddenLabel"></div>
+            <span id="d1::iconC" style="display:none">
+                <span id="af_message::confirmation-icon">
+                    <img src="/commercial/afr/alta-v1/confirmation_status.png" width="16" height="16" border="0" title="&#1578;&#1571;&#1603;&#1610;&#1583;" alt="&#1578;&#1571;&#1603;&#1610;&#1583;">
+                </span>
+                <span id="af_message::warning-icon">
+                    <img src="/commercial/afr/alta-v1/warning_status.png" width="16" height="16" border="0" title="&#1578;&#1581;&#1584;&#1610;&#1585;" alt="&#1578;&#1581;&#1584;&#1610;&#1585;">
+                </span>
+                <span id="af_messages::info-icon">
+                    <img src="/commercial/afr/alta-v1/info_status.png" width="16" height="16" border="0" title="&#1605;&#1593;&#1604;&#1608;&#1605;&#1575;&#1578;" alt="&#1605;&#1593;&#1604;&#1608;&#1605;&#1575;&#1578;">
+                </span>
+                <span id="af_messages::confirmation-icon">
+                    <img src="/commercial/afr/alta-v1/confirmation_status.png" width="16" height="16" border="0" title="&#1578;&#1571;&#1603;&#1610;&#1583;" alt="&#1578;&#1571;&#1603;&#1610;&#1583;">
+                </span>
+                <span id="af_message::info-icon">
+                    <img src="/commercial/afr/alta-v1/info_status.png" width="16" height="16" border="0" title="&#1605;&#1593;&#1604;&#1608;&#1605;&#1575;&#1578;" alt="&#1605;&#1593;&#1604;&#1608;&#1605;&#1575;&#1578;">
+                </span>
+                <span id="af_message::error-icon">
+                    <img src="/commercial/afr/alta-v1/error_status.png" width="16" height="16" border="0" title="&#1582;&#1591;&#1571;" alt="&#1582;&#1591;&#1571;">
+                </span>
+                <span id="af_message::fatal-icon">
+                    <img src="/commercial/afr/alta-v1/error_status.png" width="16" height="16" border="0" title="&#1582;&#1591;&#1571; &#1601;&#1575;&#1583;&#1581;" alt="&#1582;&#1591;&#1571; &#1601;&#1575;&#1583;&#1581;">
+                </span>
+                <span id="af_messages::error-icon">
+                    <img src="/commercial/afr/alta-v1/error_status.png" width="16" height="16" border="0" title="&#1582;&#1591;&#1571;" alt="&#1582;&#1591;&#1571;">
+                </span>
+                <span id="af_messages::fatal-icon">
+                    <img src="/commercial/afr/alta-v1/error_status.png" width="16" height="16" border="0" title="&#1582;&#1591;&#1571; &#1601;&#1575;&#1583;&#1581;" alt="&#1582;&#1591;&#1571; &#1601;&#1575;&#1583;&#1581;">
+                </span>
+                <span id="af_messages::warning-icon">
+                    <img src="/commercial/afr/alta-v1/warning_status.png" width="16" height="16" border="0" title="&#1578;&#1581;&#1584;&#1610;&#1585;" alt="&#1578;&#1581;&#1584;&#1610;&#1585;">
+                </span>
+            </span>
+            <div id="afr::DlgSrvPopupCtnr">
+                <div id="afr::DlgSrvPopupCtnr::content" style="display:none"></div>
+            </div>
+            <DIV id="afr::UtilPopupCtnr" data-afr-pid="j_id3" data-afr-did="j_id4" style="display:none">
+                <div id="j_id3" style="display:none">
+                    <div style="top:auto;right:auto;left:auto;bottom:auto;width:auto;height:auto;position:relative;" id="j_id3::content">
+                        <div id="j_id4" class="x1d4">
+                            <div class="x1ef" data-afr-panelwindowbackground="1"></div>
+                            <div class="x1ef" data-afr-panelwindowbackground="1"></div>
+                            <div class="x1ef" data-afr-panelwindowbackground="1"></div>
+                            <div class="x1ef" data-afr-panelwindowbackground="1"></div>
+                            <table cellpadding="0" cellspacing="0" border="0" summary="" role="presentation" class="x1dk">
+                                <tr>
+                                    <td class="x1d9" id="j_id4::_hee">&nbsp;</td>
+                                    <td class="x1db" id="j_id4::_hce">
+                                        <table style="cursor:default" cellpadding="0" cellspacing="0" border="0" width="100%" summary="" role="presentation">
+                                            <tr>
+                                                <td>
+                                                    <div id="j_id4::_ticn" class="x1e7" style="display:none"></div>
+                                                </td>
+                                                <td class="x1dm" id="j_id4::tb">
+                                                    <div id="j_id4::_ttxt" class="x1e5"></div>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                    <td class="x1dd" id="j_id4::_hse">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td class="x1dr" id="j_id4::_cee">&nbsp;</td>
+                                    <td class="x1o" id="j_id4::contentContainer"></td>
+                                    <td class="x1dt" id="j_id4::_cse">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td class="x1de" id="j_id4::_fee">
+                                        <div></div>
+                                    </td>
+                                    <td class="x1df" id="j_id4::_fce">
+                                        <table cellpadding="0" cellspacing="0" border="0" width="100%" summary="" role="presentation">
+                                            <tr>
+                                                <td class="x1dx" id="j_id4::_fcc">
+                                                    <div id="j_id4_ok" class="xfl p_AFTextOnly p_AFActionDisabled" _afrGrp="0" role="presentation">
+                                                        <a href="#" onclick="this.focus();return false" data-afr-fcs="true" class="xfn" role="button">
+                                                            <span class="xfv">&#1605;&#1608;&#1575;&#1601;&#1602;</span>
+                                                        </a>
+                                                    </div>
+                                                    <div id="j_id4_cancel" class="xfl p_AFTextOnly p_AFActionDisabled" _afrGrp="0" role="presentation">
+                                                        <a href="#" onclick="this.focus();return false" data-afr-fcs="true" class="xfn" role="button">
+                                                            <span class="xfv">&#1573;&#1604;&#1594;&#1575;&#1569;</span>
+                                                        </a>
+                                                    </div>
+                                                </td>
+                                                <td align="right" valign="bottom">
+                                                    <div class="x1e4">
+                                                        <a tabIndex="-1" class="x1e2" id="j_id4::_rse" title="&#1573;&#1593;&#1575;&#1583;&#1577; &#1578;&#1581;&#1580;&#1610;&#1605;"></a>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                    <td class="x1dg" id="j_id4::_fse">
+                                        <div></div>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </DIV>
+        </div>
+        <script type="text/javascript" src="/commercial/afr/partition/webkit/n/default/opt/d/input-pgsshm.js"></script>
+        <script type="text/javascript" src="/commercial/afr/partition/unknown/n/default/opt/d/form-7rurr.js"></script>
+        <script type="text/javascript" src="/commercial/afr/partition/unknown/n/default/opt/d/detail-t9c9lb.js"></script>
+        <script type="text/javascript" src="/commercial/afr/partition/unknown/n/default/opt/d/box-hvfxuo.js"></script>
+        <script type="text/javascript" src="/commercial/afr/partition/unknown/n/default/opt/d/region-5j5dkj.js"></script>
+        <script type="text/javascript" src="/commercial/afr/partition/unknown/n/default/opt/d/iedit-jav9xk.js"></script>
+        <script type="text/javascript" src="/commercial/afr/partition/unknown/n/default/opt/d/uncommon-o5neft.js"></script>
+        <script type="text/javascript">
+            AdfBootstrap._onLoad = function() {
+                if (AdfPage.PAGE.__checkRichResponseDirty())
+                    return;
+                AdfPage.PAGE.__loadCoreBackgroundScript('/commercial/afr/partition/unknown/n/default/opt/d/background-d6urk1.js');
+                AdfAgent.AGENT.elementsAdded(document);
+                AdfPage.PAGE.setPageStateId("0");
+                AdfDhtmlLookAndFeel.addSkinProperties({
+                    ".AFPopupSelector-tr-animate": "true",
+                    "af|message::intro": "x1av",
+                    "af|popup-tr-shadow-starting-black-percent": 50,
+                    "AFPopupSelector": "x193",
+                    "af|panelBox-tr-disclose-with-up-down-arrow": "true",
+                    "af|messages::message-group-list": "x1b4",
+                    "af|message::detail-cell": "x1b3",
+                    "af|dialog-tr-button-type": "unified",
+                    "af|message::summary": "x1au",
+                    "AFPopupSelectorContent": "x19b",
+                    "af|messages::message-group-type-separator": "x1a8",
+                    "af|message::icon-cell": "x1b2",
+                    "AFPopupSelectorContentEnd": "x19d",
+                    "af|messages::message-group-title": "x1a7",
+                    "af|messages::detail": "x15p",
+                    "af|messages::summary": "x1aw",
+                    "AFPopupSelectorHeaderStart": "x199",
+                    "af|popup-tr-shadow-offset": 1,
+                    "af|message::type": "x1at",
+                    "AFPopupSelectorContentStart": "x19c",
+                    "af|panelBox::undisclosed-icon-style": "x213",
+                    "af|dialog-tr-animate": "true",
+                    ".AFNoteWindow-tr-animate": "true",
+                    ".AFPopupSelector-tr-open-animation-duration": "200",
+                    "af|messages::intro": "x1a6",
+                    "af|message::component-messages-list-container": "x1b1",
+                    ".AFNoteWindow-tr-open-animation-duration": "200",
+                    "af|messages::message-list-page": "x1az",
+                    "af|dialog-tr-open-animation-duration": "300",
+                    "af|messages::intro-separator": "x21j",
+                    "af|message::container": "x1b0",
+                    "af|messages::component-link": "xgx",
+                    "AFPopupSelectorHeaderEnd": "x19a",
+                    "AFPopupSelectorFooter": "x19e",
+                    "af|message::message-list-component": "x1ay",
+                    "af|panelBox::disclosed-icon-style": "x214",
+                    "af|dialog::resize-ghost": "x1di",
+                    "af|popup-tr-shadow-pixel-size": 5,
+                    "AFPopupSelectorHeader": "x198",
+                    "af|panelBox-tr-animation-duration": "200",
+                    "AFPopupSelectorFooterEnd": "x19g",
+                    "af|messages::header-text": "x1a5",
+                    "AFPopupSelectorFooterStart": "x19f",
+                    "af|message::detail": "x15q"
+                });
+                AdfPage.PAGE.addComponents(new AdfRichDocument('d1',{
+                    'title': '\u062a\u0641\u0627\u0635\u064a\u0644 \u0631\u062e\u0635\u0629 \u062a\u062c\u0627\u0631\u064a\u0629'
+                }), new AdfRichForm('f1'), new AdfRichRegion('r1'), new AdfRichOutputText('r1:0:ot1'), new AdfRichPanelBox('r1:0:pb01',{
+                    'text': '\u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0631\u062e\u0635\u0629',
+                    'showMaximize': false
+                }), new AdfRichInputText('r1:0:it26',{
+                    'shortDesc': '',
+                    'readOnly': true
+                }), new AdfRichInputText('r1:0:it27',{
+                    'shortDesc': '',
+                    'readOnly': true,
+                    'converter': new TrNumberConverter(null,'number',null,null,false,false,false,null,null,null,null,null,null,null,null,null)
+                }), new AdfRichInputText('r1:0:it29',{
+                    'shortDesc': '',
+                    'readOnly': true,
+                    'converter': new TrNumberConverter(null,'number',null,null,false,false,false,null,null,null,null,null,null,null,null,null)
+                }), new AdfRichInputText('r1:0:it28',{
+                    'shortDesc': '',
+                    'readOnly': true
+                }), new AdfRichInputText('r1:0:it2',{
+                    'shortDesc': '',
+                    'readOnly': true
+                }), new AdfRichInputText('r1:0:it88',{
+                    'shortDesc': '',
+                    'readOnly': true
+                }), new AdfRichInputText('r1:0:it98',{
+                    'shortDesc': '',
+                    'readOnly': true
+                }), new AdfRichPanelBox('r1:0:pb02',{
+                    'text': '\u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0645\u062d\u0644',
+                    'showMaximize': false
+                }), new AdfRichInputText('r1:0:it31',{
+                    'shortDesc': '',
+                    'readOnly': true
+                }), new AdfRichInputText('r1:0:it55',{
+                    'shortDesc': '',
+                    'readOnly': true
+                }), new AdfRichInputText('r1:0:it32',{
+                    'shortDesc': '',
+                    'readOnly': true
+                }), new AdfRichInputText('r1:0:it34',{
+                    'shortDesc': '',
+                    'readOnly': true
+                }), new AdfRichInputText('r1:0:it36',{
+                    'shortDesc': '',
+                    'readOnly': true
+                }), new AdfRichInputText('r1:0:it9',{
+                    'shortDesc': '',
+                    'readOnly': true
+                }), new AdfRichPanelFormLayout('r1:0:pfl002'), new AdfRichPanelBox('r1:0:pb03',{
+                    'text': '\u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0646\u0634\u0627\u0637',
+                    'showMaximize': false
+                }), new AdfRichInputText('r1:0:it54',{
+                    'shortDesc': '',
+                    'readOnly': true
+                }), new AdfRichInputText('r1:0:it53',{
+                    'shortDesc': '',
+                    'readOnly': true
+                }), new AdfRichInputText('r1:0:it7',{
+                    'shortDesc': '',
+                    'readOnly': true
+                }), new AdfRichInputText('r1:0:it60',{
+                    'shortDesc': '',
+                    'readOnly': true
+                }), new AdfRichInputText('r1:0:it58',{
+                    'shortDesc': '',
+                    'readOnly': true,
+                    'converter': new TrNumberConverter(null,'number',null,null,false)
+                }), new AdfRichInputText('r1:0:it8',{
+                    'shortDesc': '',
+                    'readOnly': true,
+                    'converter': new TrNumberConverter(null,'number',null,null,false,false,false,null,null,null,null,null,null,null,null,null)
+                }), new AdfRichInputText('r1:0:it5',{
+                    'shortDesc': '',
+                    'readOnly': true
+                }), new AdfRichPanelBox('r1:0:pb1',{
+                    'text': '\u062d\u0627\u0644\u0629 \u0631\u0633\u0648\u0645 \u062c\u0645\u0639 \u0627\u0644\u0646\u0641\u0627\u064a\u0627\u062a',
+                    'showMaximize': false
+                }), new AdfRichInputText('r1:0:it1850',{
+                    'readOnly': true
+                }), new AdfRichInputText('r1:0:it10',{
+                    'shortDesc': '',
+                    'readOnly': true,
+                    'converter': new TrNumberConverter(null,'number',null,null,false)
+                }), new AdfRichInputText('r1:0:it12',{
+                    'shortDesc': '',
+                    'readOnly': true,
+                    'converter': new TrNumberConverter(null,'number',null,null,false)
+                }), new AdfRichPanelBox('r1:0:pb04',{
+                    'text': '\u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0639\u0646\u0648\u0627\u0646',
+                    'showMaximize': false
+                }), new AdfRichInputText('r1:0:it16',{
+                    'shortDesc': '',
+                    'readOnly': true
+                }), new AdfRichInputText('r1:0:it49',{
+                    'shortDesc': '',
+                    'readOnly': true
+                }), new AdfRichInputText('r1:0:it50',{
+                    'shortDesc': '',
+                    'readOnly': true
+                }), new AdfRichInputText('r1:0:it42',{
+                    'shortDesc': '',
+                    'readOnly': true
+                }), new AdfRichInputText('r1:0:it46',{
+                    'shortDesc': '',
+                    'readOnly': true
+                }), new AdfRichInputText('r1:0:it43',{
+                    'shortDesc': '',
+                    'readOnly': true,
+                    'converter': new TrNumberConverter(null,'number',null,null,false)
+                }), new AdfRichInputText('r1:0:it48',{
+                    'shortDesc': '',
+                    'readOnly': true
+                }), new AdfRichInputText('r1:0:it4',{
+                    'shortDesc': '',
+                    'readOnly': true,
+                    'converter': new TrNumberConverter(null,'number',null,null,false)
+                }), new AdfRichInputText('r1:0:it45',{
+                    'shortDesc': '',
+                    'readOnly': true,
+                    'converter': new TrNumberConverter(null,'number',null,null,false,false,false,null,null,null,null,null,null,null,null,null)
+                }), new AdfRichInputText('r1:0:it22',{
+                    'shortDesc': '',
+                    'readOnly': true,
+                    'converter': new TrNumberConverter(null,'number',null,null,false)
+                }), new AdfRichImage('r1:0:if1'), new AdfRichPanelBox('r1:0:pb05',{
+                    'text': '\u0627\u0644\u0644\u0648\u062d\u0627\u062a \u0648\u0627\u0644\u0631\u0633\u0648\u0645',
+                    'showMaximize': false
+                }), new AdfRichInputText('r1:0:it18',{
+                    'shortDesc': '',
+                    'readOnly': true,
+                    'converter': new TrNumberConverter(null,'number',null,null,false,false,false,null,null,null,null,null,null,null,null,null)
+                }), new AdfRichInputText('r1:0:it20',{
+                    'shortDesc': '',
+                    'readOnly': true,
+                    'converter': new TrNumberConverter(null,'number',null,null,false,false,false,null,null,null,null,null,null,null,null,null)
+                }), new AdfRichInputText('r1:0:it63',{
+                    'shortDesc': '',
+                    'readOnly': true,
+                    'converter': new TrNumberConverter(null,'number',null,null,false,false,false,null,null,null,null,null,null,null,null,null)
+                }), new AdfRichInputText('r1:0:it62',{
+                    'shortDesc': '',
+                    'readOnly': true,
+                    'converter': new TrNumberConverter(null,'number',null,null,false,false,false,null,null,null,null,null,null,null,null,null)
+                }), new AdfRichInputText('r1:0:it64',{
+                    'shortDesc': '',
+                    'readOnly': true,
+                    'converter': new TrNumberConverter(null,'number',null,null,false,false,false,null,null,null,null,null,null,null,null,null)
+                }), new AdfRichInputText('r1:0:it65',{
+                    'shortDesc': '',
+                    'readOnly': true,
+                    'converter': new TrNumberConverter(null,'number',null,null,false)
+                }), new AdfRichPanelBox('r1:0:pb06',{
+                    'text': '\u0627\u0644\u062a\u0635\u0627\u0631\u064a\u062d',
+                    'showMaximize': false
+                }), new AdfRichPanelBox('r1:0:pb2',{
+                    'text': '\u0627\u0644\u062a\u0642\u064a\u064a\u0645 \u0627\u0644\u0630\u0627\u062a\u064a \u0644\u0644\u0645\u0646\u0634\u0623\u0629',
+                    'showMaximize': false
+                }), new AdfRichCommandLink('r1:0:_afrCommandDelegate',{
+                    'partialSubmit': true
+                }), new AdfRichDialog('d1_msgDlg',{
+                    'modal': false,
+                    'resize': 'on'
+                }), new AdfRichButton('d1_msgDlg_cancel',{
+                    'unsecure': {
+                        'disabled': '1'
+                    },
+                    'accessKey': '\uffff'
+                }), new AdfDialogServicePopupContainer('afr::DlgSrvPopupCtnr'), new AdfRichPopup('j_id3',{
+                    'contentDelivery': 'immediate'
+                }), new AdfRichDialog('j_id4',{
+                    'okVisible': false,
+                    'cancelVisible': false,
+                    'closeIconVisible': false
+                }), new AdfRichButton('j_id4_ok',{
+                    'unsecure': {
+                        'disabled': '1'
+                    },
+                    'accessKey': '\uffff'
+                }), new AdfRichButton('j_id4_cancel',{
+                    'unsecure': {
+                        'disabled': '1'
+                    },
+                    'accessKey': '\uffff'
+                }));
+                AdfPage.PAGE.setDefaultMessageHandlerComponentId("d1");
+                AdfPage.PAGE.__initializeSessionTimeoutTimer(3600000, 120000, "https://ebalady.momra.gov.sa:443/commercial/faces/LicencesDetail.jsf");
+                AdfPage.PAGE.__initUserInactivityTimeout(600000);
+                AdfPage.PAGE.__setShouldValidateEmptyFields(true);
+                AdfPage.PAGE.__setViewId('/LicencesDetail.jsf');
+                var exScripts = AdfBootstrap._extendedScripts;
+                for (var i = 0; i < exScripts.length; i++) {
+                    exScripts[i]()
+                }
+                ;AdfBootstrap._extendedScripts = null;
+                AdfPage.PAGE.__onLoad();
+            }
+            ;
+            window.onload = AdfBootstrap._onLoad;
+        </script>
+        <script type="text/javascript">
+            AdfBootstrap._extendedScripts = [function() {
+                AdfPage.PAGE.setPageId('4');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:ot1');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it26');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it27');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it29');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it28');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it2');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it88');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it98');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it31');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it55');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it32');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it34');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it36');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it9');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:pfl002');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it54');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it53');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it7');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it60');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it58');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it8');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it5');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it1850');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it10');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it10');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it12');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it12');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it16');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it49');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it50');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it42');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it46');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it43');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it48');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it4');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it45');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it22');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:if1');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it18');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it20');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it63');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it62');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it64');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1:0:it65');
+            }
+            , function() {
+                AdfPage.PAGE.updateAutoPPRComponents('4', 'r1');
+            }
+            ];
+        </script>
+        <form action="#">
+            <input id="afr::ATFlush" type="hidden">
+        </form>
+    </body>
+   
+</html>
